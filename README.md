@@ -3,8 +3,6 @@
 
 - 🌱Currently immersing myself in the realms of **Core Java , Data Structure , Android Studio**
 
-- 🌱 I’m currently learning **Core Java , Data Structure , Android Studio**
-
 - 👨‍💻 All of my projects are available at [https://github.com/VinitaSonwane](https://github.com/VinitaSonwane)
 
 - 📫 How to reach me **vinitasonwane24@gmail.com**
