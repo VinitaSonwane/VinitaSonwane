@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vinitasonwane24@gmail.com**
 
-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy).
+  <h3 align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy).</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
