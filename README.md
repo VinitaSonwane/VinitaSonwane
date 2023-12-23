@@ -6,8 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/VinitaSonwane](https://github.com/VinitaSonwane)
 
 - 📫 How to reach me **vinitasonwane24@gmail.com**
-
-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15)
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VinitaSonwane" alt="VinitaSonwane" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
