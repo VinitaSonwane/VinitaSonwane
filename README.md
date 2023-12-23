@@ -1,7 +1,7 @@
 <h1 align="center">🌟Greetings, World! I'm Vinita Santosh Sonwane👋</h1>
 <h3 align="center"> Embarking on the Journey of Android Development with Passion👩🏻‍💻</h3>
 
-- 🌱Currently immersing myself in the realms of **Core Java , Data Structure , Android Studio**
+- 🌱Currently immersing myself in the realms of **Java , Data Structure , Android Studio**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VinitaSonwane](https://github.com/VinitaSonwane)
 
