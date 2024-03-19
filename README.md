@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github.com/AkshayAnil1080/AkshayAnil1080/blob/master/readme.gif">
+</p>
+
+## :rainbow: Hey Profile Visitor 👀<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=AkshayAnil1080 alt=AkshayAnil1080/></p>
+
+
+
 <h1 align="center">🌟Greetings, World! I'm Vinita Santosh Sonwane👋</h1>
 <h3 align="center"> Embarking on the Journey of Android Development with Passion👩🏻‍💻</h3>
 
