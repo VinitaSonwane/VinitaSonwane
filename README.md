@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/AkshayAnil1080/AkshayAnil1080/blob/master/readme.gif">
-</p>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 ## :rainbow: Hey Profile Visitor 👀<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=AkshayAnil1080 alt=AkshayAnil1080/></p>
@@ -10,7 +8,7 @@
 <h1 align="center">🌟Greetings, World! I'm Vinita Santosh Sonwane👋</h1>
 <h3 align="center"> Embarking on the Journey of Android Development with Passion👩🏻‍💻</h3>
 
-- 🌱Currently immersing myself in the realms of **Java , Data Structure , Android Studio**
+- 🌱Currently immersing myself in the realms of **Java , Data Structure , Java Frameworks , Android Studio**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VinitaSonwane](https://github.com/VinitaSonwane)
 
